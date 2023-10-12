@@ -21,7 +21,7 @@
 
 <h2>Demo</h2>
 
-<p>[Link to live demo, if applicable]</p>
+<p>https://haiderghadi.github.io/Bookstore/</p>
 
 
 <h2>Contact</h2>
